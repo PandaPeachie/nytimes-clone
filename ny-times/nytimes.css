@@ -1,0 +1,66 @@
+.btn {
+    background-color: #567B95;
+    border: none;
+    font-size: 11px;
+    color: white;
+    margin: 5px;
+    
+}
+
+.navbar {
+    background: white;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+.button-group {
+    margin-right: 60px;
+}
+
+.figure {
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.figure-caption {
+    display: table-caption;
+    caption-side: bottom;
+    text-align: left;
+}
+
+.article {
+    width: 600px;
+    font-size: 18px;
+}
+
+.end {
+    font-size: 12px;
+}
+
+.side-bar {
+    float: right;
+    width: 200px;
+}
+
+.title1 {
+    width: 345px;
+}
+
+.title2 {
+    width: 330px;
+}
+
+.bottom-logo {
+    margin-left: 73px;
+}
+
+.col-2 {
+    font-size: 14px;
+}
